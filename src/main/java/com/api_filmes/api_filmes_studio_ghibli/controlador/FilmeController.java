@@ -28,7 +28,7 @@ public class FilmeController {
     }
 
     @GetMapping
-    public ResponseEntity<List<FilmeEntity>> listarFilme() {
+    public ResponseEntity<List<FilmeEntity>> listarFilmes() {
 
         return ResponseEntity.ok(service.listarFilmes());
     }
