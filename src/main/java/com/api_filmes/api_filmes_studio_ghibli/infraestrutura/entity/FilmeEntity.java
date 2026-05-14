@@ -1,4 +1,4 @@
-package com.api_filmes.api_filmes_studio_ghibli.infraestrutura;
+package com.api_filmes.api_filmes_studio_ghibli.infraestrutura.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
